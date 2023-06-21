@@ -1,5 +1,5 @@
 # Neobank_Le_Wagon_Project
-Le Wagon Data Analytics Project
+Le Wagon Data Analytics Project.
 
 As part of the final assessment in the Le Wagon's data analytics bootcamp, students were split into groups of 4 and given a data analytics task to complete.
 
